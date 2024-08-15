@@ -16,12 +16,6 @@ import tensorflow as tf
 # MASCON I
 Aster_M1CM_PATH  = 'Asteroid_Database/Asteroid_CM/MASCON1/'
 Aster_VolM1_PATH = 'Asteroid_Database/Asteroid_CM/MASCON1/Tetra_Vol/'
-# MASCON III
-Aster_M3CM_PATH  = 'Asteroid_Database/Asteroid_CM/MASCON3/'
-Aster_VolM3_PATH = 'Asteroid_Database/Asteroid_CM/MASCON3/Tetra_Pris_Vol/'
-# MASCON VIII
-Aster_M8CM_PATH  = 'Asteroid_Database/Asteroid_CM/MASCON8/'
-Aster_VolM8_PATH = 'Asteroid_Database/Asteroid_CM/MASCON8/Tetra_Pris_Vol/'
 # OBJ & Constant
 Aster_OBJ_PATH   = 'Asteroid_Database/OBJ_Files/'
 Aster_Const_PATH = 'Asteroid_Database/Asteroid_Constants/'
