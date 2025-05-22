@@ -23,7 +23,6 @@ $$
     \caption{Times for the processing speed experiment.}
     \label{tab:Process}
 \end{table}
-
 $$ 
 
 
