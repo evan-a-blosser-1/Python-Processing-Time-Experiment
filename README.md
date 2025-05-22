@@ -9,7 +9,7 @@ This is an experiment to measure the processing speed, and calcuation erors, of 
 ## Results
 
 $$
-\begin{table}[]
+\begin{table}
     \centering
     \begin{tabular}{ |p{2.5cm}||p{4cm}||p{3.5cm}|p{4cm}|}
     \hline
