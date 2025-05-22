@@ -8,22 +8,13 @@ This is an experiment to measure the processing speed, and calcuation erors, of 
 
 ## Results
 
-$$
-\begin{table}
-    \centering
-    \begin{tabular}{ |p{2.5cm}||p{4cm}||p{3.5cm}|p{4cm}|}
-    \hline
-       Mesh Grid Size & Regular (Sec) & TensorFlow (Sec) & Multiprocessing (Sec) \\
-    \hline
-    100 & $0.08314\pm 0.00232$.  & $1.35401\pm 0.14727$ & $8.73846\pm 0.26053$ \\
-    1,000 & $33.48606 \pm 1.56878$  & $8.93515 \pm 0.54915$  & $22.08205 \pm 1.02119$\\
-    10,000   & $3627.16058 \pm 293.50415$ & $823.66046 \pm 55.70785$ & $2219.72157 \pm 31.04704$\\
-    \hline
-    \end{tabular}
-    \caption{Times for the processing speed experiment.}
-    \label{tab:Process}
-\end{table}
-$$ 
+| Mesh Grid Size | Regular (Sec) | TensorFlow (Sec) | Multiprocessing (Sec) |
+|---------------|---------------|------------------|---------------------|
+| 100 | 0.08314±0.00232 | 1.35401±0.14727 | 8.73846±0.26053 |
+| 1,000 | 33.48606±1.56878 | 8.93515±0.54915 | 22.08205±1.02119 |
+| 10,000 | 3627.16058±293.50415 | 823.66046±55.70785 | 2219.72157±31.04704 |
+
+*Times for the processing speed experiment.*
 
 
 
